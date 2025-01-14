@@ -4,10 +4,10 @@
 # ProjectReadme
 📚 A centralized repository to track project progress, document milestones, and stay organized.
 
-## 📌 Sections
-- 🌐 [Web Apps](web-apps/README.md)
-- 📱 [Mobile Apps](mobile-apps/README.md)
-- 📜 [Scripts](scripts/README.md)
+## 📂 Current Projects
+- 🌐 [Friendly Umbrella](web-apps/friendly-umbrella.md)
+- 📱 [EcoTail](mobile-apps/EcoTail.md)
+- 📜 [Scripts Placeholder](scripts/placeholder.md)
 
 ## 🚀 Purpose
 This repository is for tracking progress and documenting goals across all projects.
